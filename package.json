@@ -1,0 +1,19 @@
+{
+  "name": "cucumberjsbdd",
+  "version": "1.0.0",
+  "description": "bdd test javascript with cucumberjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumberjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibgit/CucumberJS-BDD-Framework.git"
+  },
+  "author": "Boma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fibgit/CucumberJS-BDD-Framework/issues"
+  },
+  "homepage": "https://github.com/fibgit/CucumberJS-BDD-Framework#readme"
+}
